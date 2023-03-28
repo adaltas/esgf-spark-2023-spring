@@ -34,7 +34,7 @@ Connect to the Adaltas cloud cluster using OpenVPN.
   ./taxi_streaming_analysis.py \
   gauthier_taxi_streaming \
   edge-1.au.adaltas.cloud \
-  "/education/esgf/big-data/2022/fall/bda/gr1/$USER/spark-lab4/output/fares_metrics" \
+  "/education/esgf_2022_fall_bda_1/$USER/spark-lab4/output/fares_metrics" \
   -f PORT_NUMBER
   ```
 - To stop the application using `yarn application`
